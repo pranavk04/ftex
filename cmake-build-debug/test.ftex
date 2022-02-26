@@ -1,0 +1,22 @@
+Test Document
+
+@section Introduction
+
+!thm
+We have that $V + E - F = 2$.
+!end
+
+Let's look at an example. We know that there exists some sum that satisfies the solution.
+
+There is some number $x \in \RR$ such that the following holds:
+
+note that this exists
+\[ \{ \sumkn f(k) = g(n) \}. \]
+
+Here's another example:
+fast tex
+!ex
+consider the function $f(x) = 2x$. This is linear because $\deg{f} = 2$.
+!end
+
+Ok bye.
