@@ -1,0 +1,3 @@
+/Users/pranav/programming/ftex/CMakeFiles/rebuild_cache.dir
+/Users/pranav/programming/ftex/CMakeFiles/edit_cache.dir
+/Users/pranav/programming/ftex/CMakeFiles/ftex.dir
